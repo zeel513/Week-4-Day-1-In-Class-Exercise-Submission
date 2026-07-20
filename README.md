@@ -34,6 +34,8 @@ July 20, 2026
 
 <img width="1461" height="734" alt="Screenshot 2026-07-20 at 11 51 05 AM" src="https://github.com/user-attachments/assets/cab7e46a-d328-4dde-9450-a4762be7a9aa" />
 
+<img width="1465" height="562" alt="Screenshot 2026-07-20 at 11 51 37 AM" src="https://github.com/user-attachments/assets/f2a32718-610b-4fb4-8648-00a10fd7f1e9" />
+
 <img width="1456" height="568" alt="Screenshot 2026-07-20 at 11 52 55 AM" src="https://github.com/user-attachments/assets/4cc4ec31-e85e-4279-abfc-509ff690ed22" />
 
 <img width="1457" height="617" alt="Screenshot 2026-07-20 at 11 53 36 AM" src="https://github.com/user-attachments/assets/deebfcdb-9d3f-483f-bfbb-fbed8e30dc6b" />
